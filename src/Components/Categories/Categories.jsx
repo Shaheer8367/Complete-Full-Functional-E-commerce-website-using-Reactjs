@@ -12,25 +12,25 @@ const Categories = () => {
     {
       title: "Wings Chair",
       Products: "2,435 Products",
-      image: "/src/assets/categories/categories_1.png",
+      image: "/public/assets/categories/categories_1.png",
       
     },
     {
       title: "wooden chair",
       Products: "235 Products",
-      image: "/src/assets/categories/categories_2.png",
+      image: "/public/assets/categories/categories_2.png",
       
     },
      {
       title: "desk chair",
       Products: "222 Products",
-      image: "/src/assets/categories/categories_3.png",
+      image: "/public/assets/categories/categories_3.png",
       
     },
     {
       title: "Park Bench",
       Products: "222 Products",
-      image: "/src/assets/categories/categories_4.png",
+      image: "/public/assets/categories/categories_4.png",
       
     },
   ];
