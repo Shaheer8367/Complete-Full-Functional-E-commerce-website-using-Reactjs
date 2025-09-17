@@ -23,26 +23,26 @@ A modern Ecommerce Web Application built with React + Vite, styled using Tailwin
 🧩 Reusable Components for scalability
 
 📂 Project Structure
-src/
- ├── Components/
- │   ├── Navbar/         # Top navigation bar
- │   ├── Footer/         # Footer section
- │   └── SectionTitle/   # Reusable section title component
- │
- ├── Pages/
- │   ├── Home/           # Homepage
- │   ├── Auth/           # Auth Layout
- │   ├── Register/       # Register page
- │   └── Error/          # 404 Error page
- │
- ├── AuthCheck/
- │   └── AuthCheck.jsx   # Route protection
- │
- ├── assets/
- │   └── Banner/         # Banner images
- │
- ├── App.jsx
- └── main.jsx
+project/
+ ├── public/
+ │    ├── brands/
+ │    │    ├── brand_1.png
+ │    │    ├── brand_2.png
+ │    │    ├── brand_3.png
+ │    │    ├── brand_4.png
+ │    │    ├── brand_5.png
+ │    │    ├── brand_6.png
+ │    │    ├── brand_7.png
+ │    ├── banner/
+ │    │    ├── banner_image.png
+ │    └── ... (baaki images)
+ ├── src/
+ │    ├── Components/
+ │    ├── Pages/
+ │    └── main.jsx
+ ├── package.json
+ └── vite.config.js
+
 
 ⚙️ Installation & Setup
 
